@@ -1,0 +1,16 @@
+{
+  "name": "wav-test-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audiobuffer-to-wav": "^1.0.0",
+    "extendable-media-recorder": "^9.1.11",
+    "wavesurfer.js": "^7.7.5"
+  }
+}
